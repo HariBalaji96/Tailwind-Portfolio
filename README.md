@@ -34,7 +34,7 @@
 
 <div align="left">
   <h3 align="left">Home Section</h3>
-  <img src="https://github.com/HariBalaji96/Tailwind-Portfolio/assets/110282557/ea94695e-420e-44f8-ae0d-b1174c5bb58d" height="300" alt="Home Section"  />
+  <img src="https://github.com/HariBalaji96/Tailwind-Portfolio/assets/110282557/be48a984-aade-4903-bb33-489dd14a3b03" height="300" alt="Home Section"  />
   
   ###
   
